@@ -1,4 +1,4 @@
-# Aiden Timmons
+# Hey, I'm Aiden Timmons 👋
 ## Student at University of New Brunswick Saint John | Computer Science Enthusiast
 
 Hi there! I'm a student at the University of New Brunswick Saint John, where I'm pursuing my passion for computer science. With a strong interest in coding and building things that make everyday lives easier, I've been actively working on various projects and developing my skills to become a well-rounded software engineer.
