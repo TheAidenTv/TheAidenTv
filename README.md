@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=32&pause=2000&color=000000&vCenter=true&lines=Hey%2C+I'm+Aiden+Timmons+%F0%9F%91%8B;Welcome+to+my+GitHub!)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=32&pause=2000&color=FFC454&vCenter=true&lines=Hey%2C+I'm+Aiden+Timmons+%F0%9F%91%8B;Welcome+to+my+GitHub!)
 
 ## Student at University of New Brunswick Saint John | Computer Science Enthusiast
 
